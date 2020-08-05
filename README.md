@@ -1,2 +1,2 @@
-# CSSArtPumpkin
+# CSSArtGhost
 One Div CSS Art
